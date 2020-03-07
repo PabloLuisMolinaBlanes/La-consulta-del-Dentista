@@ -18,7 +18,9 @@
 --
 -- Table structure for table `consulta`
 --
-
+CREATE DATABASE consultadeldentista;
+CREATE USER 'updator'@'localhost' IDENTIFIED BY 'updator';
+USE consultadeldentista;
 DROP TABLE IF EXISTS `consulta`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
@@ -48,7 +50,7 @@ UNLOCK TABLES;
 --
 -- Table structure for table `cookie`
 --
-
+GRANT SELECT, UPDATE, DELETE, INSERT ON consultadeldentista.* TO 'updator'@'localhost';
 DROP TABLE IF EXISTS `cookie`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
