@@ -12,9 +12,12 @@ Estas incluyen un Login, una "landing page" para usuarios autentificados y una p
 Login:
 ![Login](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/login.png)
 Landing page:
-
-Menu de Landing page:
-
+![Front](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/Frontpage.png)
+![Front2](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPage2.png)
+Menus de Landing page:
+![FrontMenu1](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPageMenu1.png)
+![FrontMenu2](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPageMenu2.png)
+![FrontMenu3](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPageMenu3.png)
 Create:
 
 Create (Interactuando):
