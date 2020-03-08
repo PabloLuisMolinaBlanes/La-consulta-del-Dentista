@@ -28,28 +28,32 @@ Create especializado:
 ![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Create especializado (autentificado):
 ![Logged](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggedInMenu.png)
+![AddingUser](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/AddingUsuario.png)
 Create especializado (autentificado y interactuado):
-
+![AddedUser](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/AddedUsuario.png)
 Update:
-
+![Modify](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifyMenu.png)
 Update (Interactuando):
-
+![Modifying](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifyMenuModifying.png)
+![Modified](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifiedMenu.png)
 Update especializado:
 ![Loggin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoginPrompt.png)
 ![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Update especializado (autentificado):
-
-Updata especializado (autentificado y interactuado):
-
+![ModMenu](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifyUsuario.png)
+![Modifing](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifyingUsuario.png)
+Update especializado (autentificado y interactuado):
+![Modified](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifiedUsuario.png)
 Delete:
-
+![Delete](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/DeleteMenu.png)
 Delete (Interactuando):
-
+![Deleting](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/DeletingMenu.png)
+![Deleted](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/DeletedMenu.png)
 Delete especializado:
 ![Loggin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoginPrompt.png)
 ![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Delete especializado (autentificado):
-
+![DeleteMenu](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/ModifyingUsuario.png)
+![Deletin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/DeletingUsuario.png)
 Delete especializado (autentificado y interactuado):
-
-(Fotos por añadir).
+![DeletedUser](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/DeletedUsuario.png)
