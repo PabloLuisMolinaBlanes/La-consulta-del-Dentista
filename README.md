@@ -10,7 +10,7 @@ El diseño está realizado con el framework Bootstrap 4 principalmente.
 Estas incluyen un Login, una "landing page" para usuarios autentificados y una página por cada elemento del CRUD, una especializada a la tabla 'usuarios' y otra genérica, en está última no deberían haber problemas añadiendo nuevas tablas, debería adaptarse a ellas.
 
 Login:
-![Login] (https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/tree/master/FotosCRUD/login.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Landing page:
 
 Menu de Landing page:
