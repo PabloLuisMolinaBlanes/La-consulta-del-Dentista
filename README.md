@@ -19,13 +19,15 @@ Menus de Landing page:
 ![FrontMenu2](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPageMenu2.png)
 ![FrontMenu3](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/FrontPageMenu3.png)
 Create:
-
+![Add](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/AddMenu.png)
 Create (Interactuando):
-
+![Adding](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/AddingMenu.png)
+![Added](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/Added.png)
 Create especializado:
-
+![Loggin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoginPrompt.png)
+![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Create especializado (autentificado):
-
+![Logged](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggedInMenu.png)
 Create especializado (autentificado y interactuado):
 
 Update:
@@ -33,7 +35,8 @@ Update:
 Update (Interactuando):
 
 Update especializado:
-
+![Loggin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoginPrompt.png)
+![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Update especializado (autentificado):
 
 Updata especializado (autentificado y interactuado):
@@ -43,7 +46,8 @@ Delete:
 Delete (Interactuando):
 
 Delete especializado:
-
+![Loggin](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoginPrompt.png)
+![LoggingIn](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista/blob/master/FotosCRUD/LoggingMenu.png)
 Delete especializado (autentificado):
 
 Delete especializado (autentificado y interactuado):
